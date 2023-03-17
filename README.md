@@ -1,16 +1,18 @@
-### Hi there 👋
+### Bonjour, Je suis Islem Messili 👋 - FR
+- 🔭 Je travail actuellement sur quelque projet de développement web MERN Stack
+- 🌱 J'apprend actuellement le developpement web en MERN Stack
+- 📫 Comment me contacter: messiliislem@gmail.com
+- ⚙️ Technologies: 
+nodejs,mongodb,mySQL,Eclipse,Delphi,Visual Studio,Postman,MongoDB Compass,REST
+- ‎‍💻 Langages Informatiques:
+html,css,javascript,C,C++,python,java,react,express,php,sql
+---------------------------------------------------------------------------------
+### Hi there, I'm Islem Messili 👋 - EN
 
-<!--
-**imessili/imessili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on some Web development MERN Stack Projects
+- 🌱 I’m currently learning MERN Stack
+- 📫 How to reach me: messiliislem@gmail.com
+- ⚙️ Technologies:
+nodejs,mongodb,mySQL,Eclipse,Delphi,Visual Studio,Postman,MongoDB Compass,REST
+- ‎‍💻 Programming Languages:
+html,css,javascript,C,C++,python,java,react,express,php,sql
