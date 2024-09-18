@@ -1,5 +1,3 @@
-# Islem Messili
-
 ## Bonjour, Je suis Islem Messili - FR
 
 **COMPÉTENCES ET LANGUES**
