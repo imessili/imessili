@@ -1,6 +1,6 @@
-## Salut, Je suis Islem Messili - FR
+## Curriculum Vitae - Islem Messili - FR
 
-**COMPÉTENCES ET LANGUES**
+**COMPÉTENCES**
 
 **Langages Informatiques :** HTML, CSS, JavaScript, PHP, Python, C, C++, SQL, Java
 
@@ -31,9 +31,9 @@
 
 ---
 
-## Hi there, I'm Islem Messili - EN
+## Curriculum Vitae - Islem Messili - EN
 
-**SKILLS AND LANGUAGES**
+**SKILLS**
 
 **Programming Languages:** HTML, CSS, JavaScript, PHP, Python, C, C++, SQL, Java
 
