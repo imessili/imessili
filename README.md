@@ -8,7 +8,7 @@
 
 **Pack Microsoft Office :** Word, Excel, PowerPoint
 
-**Outils :** Eclipse, Visual Studio Code, Talend, Postman, Spark, Docker, Git
+**Outils :** NetBeans, VS Code, Talend, Flex & Bison, Postman, Spark, Docker, Git, Databricks
 
 **Base de Données :** MySQL, MongoDB, SQLite
 
@@ -22,7 +22,7 @@
 - **Polonais :** Débutant
 
 **CENTRES D’INTÉRÊT**
-- **Sport :** Jogging
+- **Sport :** Jogging, Musculation
 - **Musique :** Guitare, depuis 5 ans
 - **Lecture :** Articles scientifiques
 - **Conception 3D :** Blender, Daz3D
@@ -41,7 +41,7 @@
 
 **Microsoft Office Pack:** Word, Excel, PowerPoint
 
-**Tools:** Eclipse, Visual Studio Code, Talend, Postman, Spark, Docker, Git
+**Tools:** NetBeans, VS Code, Talend, Flex & Bison, Postman, Spark, Docker, Git, Databricks
 
 **Databases:** MySQL, MongoDB, SQLite
 
