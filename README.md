@@ -55,7 +55,7 @@
 - **Polish:** Beginner
 
 **INTERESTS**
-- **Sport:** Jogging
+- **Sport:** Jogging, Strength training
 - **Music:** Guitar (5 years)
 - **Reading:** Scientific articles
 - **3D Design:** Blender, Daz3D
