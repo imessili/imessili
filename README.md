@@ -1,36 +1,3 @@
-## Curriculum Vitae - Islem Messili - FR
-
-**COMPÉTENCES**
-
-**Langages Informatiques :** HTML, CSS, JavaScript, PHP, Python, C, C++, SQL, Java
-
-**Frameworks et API :** MERN Stack, PyTorch, Redux, REST, GraphQL, Selenium, scikit-learn
-
-**Pack Microsoft Office :** Word, Excel, PowerPoint
-
-**Outils :** NetBeans, VS Code, Talend, Flex & Bison, Postman, Spark, Docker, Git, Databricks
-
-**Base de Données :** MySQL, MongoDB, SQLite
-
-**Spécialisations :** Machine Learning, Web Scraping, Nettoyage de Données, Développement Web
-
-**Langues :**
-- **Français :** Bilingue
-- **Anglais :** Fluent
-- **Kabyle :** Bilingue
-- **Arabe :** Bilingue
-- **Polonais :** Débutant
-
-**CENTRES D’INTÉRÊT**
-- **Sport :** Jogging, Musculation
-- **Musique :** Guitare, depuis 5 ans
-- **Lecture :** Articles scientifiques
-- **Conception 3D :** Blender, Daz3D
-- **Design :** Photoshop CC, Illustrator CC
-- **Outils Web :** WordPress, Canva
-
----
-
 ## Curriculum Vitae - Islem Messili - EN
 
 **SKILLS**
@@ -71,3 +38,45 @@
 ## Current Status
 
 I am a Master’s student in Computer Science at Université de Caen Normandie.
+
+---
+
+## Curriculum Vitae - Islem Messili - FR
+
+**COMPÉTENCES**
+
+**Langages Informatiques :** HTML, CSS, JavaScript, PHP, Python, C, C++, SQL, Java
+
+**Frameworks et API :** MERN Stack, PyTorch, Redux, REST, GraphQL, Selenium, scikit-learn
+
+**Pack Microsoft Office :** Word, Excel, PowerPoint
+
+**Outils :** NetBeans, VS Code, Talend, Flex & Bison, Postman, Spark, Docker, Git, Databricks
+
+**Base de Données :** MySQL, MongoDB, SQLite
+
+**Spécialisations :** Machine Learning, Web Scraping, Nettoyage de Données, Développement Web
+
+**Langues :**
+- **Français :** Bilingue
+- **Anglais :** Fluent
+- **Kabyle :** Bilingue
+- **Arabe :** Bilingue
+- **Polonais :** Débutant
+
+**CENTRES D’INTÉRÊT**
+- **Sport :** Jogging, Musculation
+- **Musique :** Guitare, depuis 5 ans
+- **Lecture :** Articles scientifiques
+- **Conception 3D :** Blender, Daz3D
+- **Design :** Photoshop CC, Illustrator CC
+- **Outils Web :** WordPress, Canva
+
+## Contact
+
+- 📫 Comment me contacter : messiliislem@gmail.com
+
+## Situation Actuelle
+
+Je suis étudiant en Master d'Informatique à l'Université de Caen Normandie.
+
