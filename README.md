@@ -8,11 +8,11 @@
 
 **Microsoft Office Pack:** Word, Excel, PowerPoint
 
-**Tools:** NetBeans, VS Code, Talend, Flex & Bison, Postman, Spark, Docker, Git, Databricks
+**Tools:** NetBeans, VS Code, Talend, PowerBI, Flex & Bison, Postman, Spark, Docker, Git, Databricks
 
-**Databases:** MySQL, MongoDB, SQLite
+**Databases:** MySQL, MongoDB, SQLite, Microsoft SQL Server
 
-**Specializations:** Machine Learning, Web Scraping, Data Cleaning, Web Development
+**Specializations:** Data Analysis, Machine Learning, Web Scraping, Data Cleaning, Web Development
 
 **Languages:**
 - **French:** Bilingual
@@ -51,11 +51,11 @@ I am a Master’s student in Computer Science at Université de Caen Normandie.
 
 **Pack Microsoft Office :** Word, Excel, PowerPoint
 
-**Outils :** NetBeans, VS Code, Talend, Flex & Bison, Postman, Spark, Docker, Git, Databricks
+**Outils :** NetBeans, VS Code, Talend, PowerBI, Flex & Bison, Postman, Spark, Docker, Git, Databricks
 
-**Base de Données :** MySQL, MongoDB, SQLite
+**Base de Données :** MySQL, MongoDB, SQLite, Microsoft SQL Server
 
-**Spécialisations :** Machine Learning, Web Scraping, Nettoyage de Données, Développement Web
+**Spécialisations :** Analyse de Données, Machine Learning, Web Scraping, Nettoyage de Données, Développement Web
 
 **Langues :**
 - **Français :** Bilingue
